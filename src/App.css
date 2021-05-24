@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #dfd6c5;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +22,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  color: #8dda8d;
 }
 
 .App-link {
